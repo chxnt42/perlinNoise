@@ -1,3 +1,0 @@
-/Users/jaymalone/programming/cpp/perlinNoise/build/CMakeFiles/lighting.dir
-/Users/jaymalone/programming/cpp/perlinNoise/build/CMakeFiles/edit_cache.dir
-/Users/jaymalone/programming/cpp/perlinNoise/build/CMakeFiles/rebuild_cache.dir
